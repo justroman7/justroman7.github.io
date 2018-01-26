@@ -5,4 +5,7 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-  I'm a junior web developer fresh from Bloc looking to expand my knowledge and skill of web development. Currently I have not chosen which I wish to specialize in as I enjoyed both the front-end and the back-end development. I now hope to get a job that will help me with applying my skills that I have learned, as well as teaching me more about web development.
+{:.center}
+![]({{ site.baseurl }}/img/profilepic.jpg)
+
+I'm a junior web developer that took the online course Bloc. I've learned front-end and back-end which includes css, html, javascript, jQuery. angularjs, ruby and ruby on rails. I've also learned how to use GitHub and the command line. During my bloc course, I've done many projects which are listed on my website. I now wish to get a job in the web developer field so I can begin my career as a web developer and take what I learned and apply it to the real world.

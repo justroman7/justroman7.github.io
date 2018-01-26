@@ -2,7 +2,7 @@
 layout: post
 title: BlocJams
 thumbnail-path: "img/bloc_jams_bg.jpg"
-short-description: BlocJams is a Music player to play your favorite music.
+short-description: BlocJams was my first front-end project set to mimic a basic web based music player.
 
 ---
 
