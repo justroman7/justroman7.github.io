@@ -1,13 +1,13 @@
 ---
 layout: post
 title: BlocChat
-thumbnail-path: "img/blocchatpic.jpg"
+thumbnail-path: "img/blocchatpic.png"
 short-description: BlocChat is a front-end project set to mimic a web based chatting service.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocchatpic.jpg)
+![]({{ site.baseurl }}/img/blocchatpic.png)
 
 Bloc chat was the second project I tackled during Bloc. Bloc chat is a web based chatting service that uses angularjs and firebase to allow chatting to happen in real time. This project was another simple front-end project that implemented firebase into the project to allow chatting to happen in real time.
 
